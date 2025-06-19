@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/aparna-developer11/taskes/static/css/main.21701ab5.css",
-    "main.js": "/aparna-developer11/taskes/static/js/main.bde91ccf.js",
-    "static/js/453.ea8d0c7e.chunk.js": "/aparna-developer11/taskes/static/js/453.ea8d0c7e.chunk.js",
-    "static/media/banner.gif": "/aparna-developer11/taskes/static/media/banner.849b75c520638ccd15c6.gif",
-    "static/media/Signup.png": "/aparna-developer11/taskes/static/media/Signup.a6bb96c8c93e7482f8ad.png",
-    "static/media/loginImg.png": "/aparna-developer11/taskes/static/media/loginImg.7f58b0d6b5a1b75570a9.png",
-    "index.html": "/aparna-developer11/taskes/index.html",
-    "main.21701ab5.css.map": "/aparna-developer11/taskes/static/css/main.21701ab5.css.map",
-    "main.bde91ccf.js.map": "/aparna-developer11/taskes/static/js/main.bde91ccf.js.map",
-    "453.ea8d0c7e.chunk.js.map": "/aparna-developer11/taskes/static/js/453.ea8d0c7e.chunk.js.map"
+    "main.css": "/taskes/static/css/main.21701ab5.css",
+    "main.js": "/taskes/static/js/main.09adcdca.js",
+    "static/js/453.ea8d0c7e.chunk.js": "/taskes/static/js/453.ea8d0c7e.chunk.js",
+    "static/media/banner.gif": "/taskes/static/media/banner.849b75c520638ccd15c6.gif",
+    "static/media/Signup.png": "/taskes/static/media/Signup.a6bb96c8c93e7482f8ad.png",
+    "static/media/loginImg.png": "/taskes/static/media/loginImg.7f58b0d6b5a1b75570a9.png",
+    "index.html": "/taskes/index.html",
+    "main.21701ab5.css.map": "/taskes/static/css/main.21701ab5.css.map",
+    "main.09adcdca.js.map": "/taskes/static/js/main.09adcdca.js.map",
+    "453.ea8d0c7e.chunk.js.map": "/taskes/static/js/453.ea8d0c7e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21701ab5.css",
-    "static/js/main.bde91ccf.js"
+    "static/js/main.09adcdca.js"
   ]
 }
