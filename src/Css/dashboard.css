@@ -1,0 +1,107 @@
+/* Custom styles to complement Bootstrap */
+.welcome-text {
+  font-size: 1.75rem;
+  font-weight: 600;
+  color: #333;
+}
+.bg-custom-red {
+    background-color: #FF6767 !important;
+  }
+.nav-button {
+  width: 100%;
+  text-align: left;
+  border: none;
+  background: transparent;
+  color: white;
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  transition: all 0.2s ease;
+}
+
+.nav-button:hover {
+  background-color: #fff;
+  color: #FF6767;
+}
+
+.nav-button.active {
+   background-color: #fff;
+  color: #FF6767;
+  font-weight: 600;
+}
+
+/* Scrollbar styling */
+.card-body::-webkit-scrollbar {
+  width: 6px;
+}
+
+.card-body::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 3px;
+}
+
+.card-body::-webkit-scrollbar-thumb {
+  background: #c1c1c1;
+  border-radius: 3px;
+}
+
+.card-body::-webkit-scrollbar-thumb:hover {
+  background: #a8a8a8;
+}
+
+/* Mobile responsive adjustments */
+@media (max-width: 768px) {
+  .welcome-text {
+    font-size: 1.5rem;
+  }
+
+  .card-body {
+    padding: 1rem;
+  }
+
+  .modal-dialog {
+    margin: 1rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .welcome-text {
+    font-size: 1.25rem;
+  }
+
+  .card-body {
+    padding: 0.75rem;
+  }
+}
+
+/* Ensure proper spacing for fixed elements */
+.position-fixed {
+  z-index: 1050;
+}
+
+/* Custom button styles for consistency */
+.btn-outline-danger:hover {
+  background-color: #ff6767;
+  border-color: #ff6767;
+}
+
+/* Animation for sidebar toggle */
+.sidebar-transition {
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Ensure cards have consistent height in grid */
+.card.h-100 {
+  height: 100% !important;
+}
+
+/* Better mobile spacing */
+@media (max-width: 991px) {
+  .container-fluid {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
